@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning <strong> Flutter </strong> and <strong> Django </strong> <br>
 - 👀 I’m interested in Web Development using <strong>Django</strong>, and Mobile App Development using <strong>Flutter</strong> <br>
 - 💞️ I’m looking to collaborate on any opensource project that can improve my skills in any of those two Frameworks <br>
-- 📫 Reach me using <a href="mailto:b4ddr34ms23@gmail.com"> "b4ddr34ms23@gmail.com" <br>
+- 📫 Reach me using <a href="mailto:b4ddr34ms23@gmail.com"> "b4ddr34ms23@gmail.com" </a> <br> 
 </p>
 <br>
 <br>
