@@ -16,6 +16,39 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HazardCodeBolt&theme=dark&show_icons=true" align="center">   
 </div>
 
+<div align="center">
+  <h3>Languages and Tools:</h3>
+  <p> 
+    <a href="https://www.w3.org/html/" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
+    </a>
+    <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
+    <a href="https://dart.dev/" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="cplusplus" width="40" height="40" />
+    </a>
+    <a href="https://flutter.dev" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+      <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40" />
+    </a>
+  </p>
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/2daySaeed" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="" height="40" width="40" /></a>
