@@ -1,7 +1,6 @@
 <div align="center"> 
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/93418095?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">  
-  <br>
-  <br>
+  <br> <br>
   <img src="https://komarev.com/ghpvc/?username=HazardCodeBolt&style=flat">
 </div>
 <br>
@@ -24,6 +23,9 @@
   <br> <br> <br>
   
   ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=2ieel1uuyd6kdgroezzkx68fl&count=5)
+  <br> <br> <br>
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
 
