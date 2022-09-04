@@ -1,5 +1,8 @@
 <div align="center"> 
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/93418095?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">  
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=HazardCodeBolt&style=flat">
 </div>
 <br>
 <br>
@@ -13,8 +16,13 @@
 <br>
 <br>
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=HazardCodeBolt&theme=dark&show_icons=true" align="center">   
+  <img src="https://github-readme-stats.vercel.app/api?username=HazardCodeBolt&theme=github_dark&show_icons=true&border_color=39d353&title_color=39d353">
+  <br> <br> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazardCodeBolt&theme=github-dark">
+  <br> <br> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazardCodeBolt&layout=compact&theme=github_dark&border_color=39d353&title_color=39d353">
 </div>
+
 
 <div align="center">
   <h3>Languages and Tools:</h3>
@@ -56,8 +64,3 @@
   <a href="https://www.instagram.com/saeed_2day/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="" height="40" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCY1Rgaw6b-F0ihI6_bLF8dg" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="" height="40" width="40" /></a>
 </p>
-
-<!---
-HazardCodeBolt/HazardCodeBolt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
