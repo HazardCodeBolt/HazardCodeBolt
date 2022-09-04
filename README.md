@@ -21,6 +21,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazardCodeBolt&theme=github-dark">
   <br> <br> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazardCodeBolt&layout=compact&theme=github_dark&border_color=39d353&title_color=39d353">
+  <br> <br> <br>
+  
+  ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=2ieel1uuyd6kdgroezzkx68fl&count=5)
 </div>
 
 
@@ -56,6 +59,7 @@
     </a>
   </p>
 </div>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
