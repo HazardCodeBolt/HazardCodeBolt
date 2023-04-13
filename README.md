@@ -22,9 +22,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazardCodeBolt&layout=compact&theme=github_dark&border_color=39d353&title_color=39d353">
   <br> <br> <br>
   
+  <!--
   ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=2ieel1uuyd6kdgroezzkx68fl&count=5)
   <br> <br> <br>
-  
+  -->
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
